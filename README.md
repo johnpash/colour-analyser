@@ -23,6 +23,9 @@ brew install imagemagick
 bundle install
 chmod +x app.rb
 ruby ./app.rb https://images.pexels.com/photos/3844788/pexels-photo-3844788.jpeg
+
+# this will create an `output.jpg` file
+open output.jpg
 ```
 
 ## Options
