@@ -22,7 +22,7 @@ brew install imagemagick
 ```bash
 bundle install
 chmod +x app.rb
-./app.rb https://images.pexels.com/photos/3844788/pexels-photo-3844788.jpeg
+ruby ./app.rb https://images.pexels.com/photos/3844788/pexels-photo-3844788.jpeg
 ```
 
 ## Options
